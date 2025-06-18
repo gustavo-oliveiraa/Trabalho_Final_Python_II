@@ -1,0 +1,53 @@
+Trabalho Final
+
+Instruções
+📊 Projeto Prático: Simulação de Análise de Mercado com Dados do Censo do DF (2022)
+💼 Contexto
+Você e sua equipe foram contratados por uma empresa interessada em expandir sua atuação comercial em Brasília. Como parte do processo de tomada de decisão, a empresa entregou uma base de dados extraída do Censo de 2022 do Distrito Federal (formato .csv), contendo registros detalhados de endereços e atividades comerciais da cidade, além de um arquivo auxiliar (.xls) com o dicionário de dados.
+
+Este projeto simula uma demanda real de mercado, em que sua equipe deverá analisar o mercado local de um nicho comercial em um bairro à sua escolha, identificando padrões de distribuição e insights relevantes para decisões estratégicas.
+
+🎯 Objetivo Geral
+Elaborar uma apresentação analítica sobre a distribuição geográfica e concentração de um nicho de comércio (ex: farmácias, restaurantes, pet shops, etc.) em um bairro de Brasília, utilizando a base fornecida como fonte de dados.
+
+🔍 Etapas Avaliativas
+Tratamento e Limpeza da Base de Dados
+
+Remoção dos bairros não selecionados.
+
+Filtragem dos estabelecimentos que não pertencem ao nicho escolhido.
+
+Tratamentos adicionais relevantes (padronização, eliminação de duplicatas, correção de inconsistências, etc.).
+
+Análise e Extração de Informações
+
+Conversão do DataFrame em informações úteis e interpretáveis.
+
+Geração de estatísticas, visualizações e métricas que ajudem a entender o mercado no bairro.
+
+Levantamento de hipóteses, riscos e oportunidades com base nos dados.
+
+Apresentação Final
+
+Clareza, objetividade e capacidade de síntese na exposição.
+
+Visualização de dados bem estruturada (tabelas, gráficos, mapas, etc.).
+
+Capacidade de comunicar o raciocínio por trás das análises e decisões.
+
+📌 Observações Importantes
+O foco da avaliação será:
+
+Capacidade analítica: o que é possível extrair de valor da base de dados.
+
+Trabalho em equipe: divisão de tarefas, colaboração e organização.
+
+Apresentação e comunicação: clareza na transmissão das conclusões e insights.
+
+Este é um exercício prático de ciência de dados aplicada a um contexto real de negócios. Todas as decisões analíticas devem ser justificadas e orientadas por hipóteses ou objetivos estratégicos claros.
+
+👥 Formação de Grupos
+O trabalho deve ser realizado em grupos de até 3 pessoas.
+
+Cada grupo escolherá um bairro e um nicho de comércio para análise.
+
